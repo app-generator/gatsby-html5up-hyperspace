@@ -2,6 +2,8 @@
 
 Open-source app built with GatsbyJS on top of HTML5Up Hyperspace design. 
 
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
+
 <br />
 
 ![GatsbyJS Hyperspace - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-hyperspace-intro.gif?raw=true)
